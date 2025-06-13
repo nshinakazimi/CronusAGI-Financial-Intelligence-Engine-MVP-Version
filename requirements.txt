@@ -1,0 +1,10 @@
+streamlit==1.32.0
+pandas==2.2.0
+numpy==1.26.4
+python-dotenv==1.0.1
+requests==2.31.0
+langchain==0.1.9
+yfinance==0.2.36
+plotly==5.18.0
+python-binance==1.0.19
+newsapi-python==0.2.7 
