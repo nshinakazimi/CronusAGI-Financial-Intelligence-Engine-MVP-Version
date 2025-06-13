@@ -109,7 +109,7 @@ A modern, institutional-grade dashboard for real-time market analysis, technical
 ---
 
 ## 📸 Screenshots
-> Add screenshots of the dashboard here for your client (optional)
+![Dashboard Screenshot](screenshots/dashboard.png)
 
 ---
 
